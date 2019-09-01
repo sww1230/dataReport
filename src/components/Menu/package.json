@@ -1,0 +1,14 @@
+{
+  "name": "@gome/menu",
+  "version": "1.0.3",
+  "description": "根据配置文件生成菜单导航及路由",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "menu"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

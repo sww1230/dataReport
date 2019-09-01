@@ -1,0 +1,14 @@
+{
+  "name": "@gome/crumbs",
+  "version": "1.0.4",
+  "description": "面包屑及帮助文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crumbs"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

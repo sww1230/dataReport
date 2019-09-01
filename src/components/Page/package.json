@@ -1,0 +1,14 @@
+{
+  "name": "@gome/page",
+  "version": "1.0.0",
+  "description": "Page组件在router-vie中嵌套使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "page"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

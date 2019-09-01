@@ -1,0 +1,14 @@
+{
+  "name": "@gome/chart",
+  "version": "1.0.1",
+  "description": "图形组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chart"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

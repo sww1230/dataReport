@@ -1,0 +1,14 @@
+{
+  "name": "@gome/bi-table",
+  "version": "1.0.1",
+  "description": "table表格",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "table"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

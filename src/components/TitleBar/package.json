@@ -1,0 +1,14 @@
+{
+  "name": "@gome/title-bar",
+  "version": "1.0.3",
+  "description": "标题栏:查询区及内容区配置生成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "title-bars"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

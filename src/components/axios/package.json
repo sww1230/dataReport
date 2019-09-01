@@ -1,0 +1,14 @@
+{
+  "name": "@gome/ajax",
+  "version": "1.0.3",
+  "description": "ajax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

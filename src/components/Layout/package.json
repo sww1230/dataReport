@@ -1,0 +1,14 @@
+{
+  "name": "@gome/layout",
+  "version": "1.0.1",
+  "description": "根据数组结构生成，生成flex布局",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "layout"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}

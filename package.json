@@ -1,0 +1,80 @@
+{
+  "name": "@gm/report-cli",
+  "version": "1.1.1",
+  "description": "报表平台工程框架",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@gm/ajax": "^1.0.3",
+    "@gm/bi-table": "^1.0.1",
+    "@gm/chart": "^1.0.1",
+    "@gm/crumbs": "^1.0.4",
+    "@gm/layout": "^1.0.1",
+    "@gm/menu": "^1.0.3",
+    "@gm/page": "^1.0.0",
+    "@gm/router": "^1.0.3",
+    "@gm/title-bar": "^1.0.3",
+    "animate.css": "^3.7.2",
+    "commander": "^2.20.0",
+    "core-js": "^2.6.5",
+    "echarts": "^4.2.1",
+    "element-ui": "^2.3.6",
+    "git-clone": "^0.1.0",
+    "moment": "^2.24.0",
+    "query-string": "^6.8.1",
+    "sass-loader": "^7.1.0",
+    "shelljs": "^0.8.3",
+    "tailwindcss": "^1.0.5",
+    "tracer": "^0.9.9",
+    "v-charts": "^1.19.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-eslint": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "axios": "^0.18.0",
+    "babel-eslint": "^10.0.1",
+    "compression-webpack-plugin": "^3.0.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-cli-plugin-element-ui": "^1.1.4",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {
+      "no-console": "off",
+      "no-debugger": "off"
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "bin": {
+    "report": "./bin/report.js"
+  }
+}

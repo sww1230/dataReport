@@ -1,0 +1,14 @@
+{
+  "name": "@gome/card-container",
+  "version": "1.0.1",
+  "description": "卡片容器 包裹内容组件使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cardContainer"
+  ],
+  "author": "shangwenwu",
+  "license": "ISC"
+}
