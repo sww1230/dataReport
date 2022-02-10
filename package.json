@@ -43,7 +43,7 @@
     "compression-webpack-plugin": "^3.0.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "vue-cli-plugin-axios": "0.0.4",
     "vue-cli-plugin-element-ui": "^1.1.4",
     "vue-template-compiler": "^2.6.10"
