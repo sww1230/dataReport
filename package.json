@@ -23,7 +23,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.3.6",
     "git-clone": "^0.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "query-string": "^6.8.1",
     "sass-loader": "^7.1.0",
     "shelljs": "^0.8.3",
